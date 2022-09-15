@@ -1,5 +1,5 @@
 ### Hi there 👋
-(https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cuculus_canorus_1.jpg/290px-Cuculus_canorus_1.jpg)
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cuculus_canorus_1.jpg/290px-Cuculus_canorus_1.jpg)
 
 <!--
 **propaan/propaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
