@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://d32qe1r3a676y7.cloudfront.net/eyJidWNrZXQiOiJibG9nLWVjb3RyZWUiLCJrZXkiOiAiYmxvZy8wMDAxLzAzL2VkYTY0YTNjNzI4ZjM4ZTAzMTk2MGMwYzk4NWNlNWE1MGIzMWE2OTAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjogOTAwLCJoZWlnaHQiOjAsImZpdCI6ImNvdmVyIn19fQ==)
+(https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cuculus_canorus_1.jpg/290px-Cuculus_canorus_1.jpg)
 
 <!--
 **propaan/propaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
