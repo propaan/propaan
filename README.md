@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm propan</h1>
 <h3 align="center">A french student !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=propaan" alt="propaan" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=propaan" alt="propaan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
