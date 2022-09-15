@@ -6,5 +6,5 @@
 <p align="center">
 </p>
 
-<p align="center"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"></p>
+<p align="center"><img height="50px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg"></p>
 
