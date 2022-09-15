@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm propan</h1>
 <h3 align="center">A french student !</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=propaan&show_icons=true&locale=en" alt="propaan" /></p>
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=propaan&show_icons=true&locale=en" alt="propaan" />
+</p>
 <p align="center">
 </p>
 
