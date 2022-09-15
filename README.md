@@ -1,5 +1,5 @@
 <h1 align="center">Hello ! 👋</h1>
-```
+```java
 public class Me() {
   private String username = "propan";
   private int age = 18;
