@@ -1,4 +1,11 @@
 <h1 align="center">Hello ! 👋</h1>
+```
+public class Me() {
+  private String username = "propan";
+  private int age = 18;
+  private String location = "Amiens";
+}
+```
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cuculus_canorus_1.jpg/290px-Cuculus_canorus_1.jpg">
 
 <!--
