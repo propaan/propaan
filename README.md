@@ -3,7 +3,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=propaan&show_icons=true&locale=en" alt="propaan" />
 </p>
-<p>salut</p>
 <p align="center">
 </p>
 
