@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm propan</h1>
-<h2 align="center">I am a french student 🎓</h2>
+<h2 align="center">French student 🎓</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=propaan&show_icons=true&locale=en" alt="propaan" />
 </p>
